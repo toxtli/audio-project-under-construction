@@ -843,7 +843,7 @@ function initModels() {
   player3 = new mm.SoundFontPlayer('https://storage.googleapis.com/download.magenta.tensorflow.org/soundfonts_js/sgm_plus', globalCompressor, programMap, drumMap);
   Promise.all([
     onsets_frames_uni.initialize(),
-    chord_pitches_improv.initialize(),
+    //chord_pitches_improv.initialize(),
     midiRecorder.initialize(),
     multitrack_chords.initialize(),
     initMultitrack()
