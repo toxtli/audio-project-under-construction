@@ -42,7 +42,7 @@
 		"4": { "pattern": "p5", "duration": 128, "when": 0, "track": "t5" },
 		"5": { "pattern": "p6", "duration": 128, "when": 0, "track": "t6" },
 		"6": { "pattern": "p7", "duration": 128, "when": 0, "track": "t7" },
-		"7": { "pattern": "p8", "duration": 128, "when": 0, "track": "t8" },
+		"7": { "pattern": "p8", "duration": 128, "when": 0, "track": "t8" }
 	},
 	"keys": {
 		"k1": {
